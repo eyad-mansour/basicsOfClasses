@@ -1,4 +1,5 @@
-﻿<Properties StartupConfiguration="{60F12F7B-F63A-4591-8C12-7A8CADCBE269}|Default">
+﻿<Properties StartupConfiguration="{0D0226EA-09E9-47B1-ACFB-C9E9216D40E6}|Default">
+  <MonoDevelop.Ide.ItemProperties.static__memeber FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.basicsOfClasses FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.basicsOfClasses PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
