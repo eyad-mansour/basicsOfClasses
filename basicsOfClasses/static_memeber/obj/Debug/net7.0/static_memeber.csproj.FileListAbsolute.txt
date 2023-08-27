@@ -1,0 +1,14 @@
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/bin/Debug/net7.0/static_memeber
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/bin/Debug/net7.0/static_memeber.deps.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/bin/Debug/net7.0/static_memeber.runtimeconfig.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/bin/Debug/net7.0/static_memeber.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/bin/Debug/net7.0/static_memeber.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.AssemblyInfoInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.AssemblyInfo.cs
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.csproj.CoreCompileInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/refint/static_memeber.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/static_memeber.genruntimeconfig.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/static_memeber/obj/Debug/net7.0/ref/static_memeber.dll
