@@ -1,0 +1,14 @@
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/bin/Debug/net7.0/linkedList
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/bin/Debug/net7.0/linkedList.deps.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/bin/Debug/net7.0/linkedList.runtimeconfig.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/bin/Debug/net7.0/linkedList.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/bin/Debug/net7.0/linkedList.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.AssemblyInfoInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.AssemblyInfo.cs
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.csproj.CoreCompileInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/refint/linkedList.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/linkedList.genruntimeconfig.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/linkedList/obj/Debug/net7.0/ref/linkedList.dll
