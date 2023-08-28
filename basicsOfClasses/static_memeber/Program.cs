@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("hello ");
+        Circle small = new Circle(3);
+        Circle big = new Circle(8);
+
+
         Console.ReadKey();
     }
 }
@@ -16,7 +19,12 @@ public class Circle
 
     public float Radious { get; set; }
 
-    public Circle(float radious)
+    public static void print()
+    {
+        Console.WriteLine("");
+    }
+
+    public Circle(float radious )
     {
         this.Radious = radious;
         instances++;
