@@ -1,28 +1,26 @@
-﻿<Properties StartupConfiguration="{2D5C5C3C-D49C-4B9E-9122-4D63273CA929}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.linkedList PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.static__memeber PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{B5C11B85-FFF9-4540-9749-CF50FE17700B}|Default">
+  <MonoDevelop.Ide.ItemProperties.oopPrinciples FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.basicsOfClasses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="linkedList/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.static__memeber PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="oopPrinciples/Program.cs">
     <Files>
-      <File FileName="linkedList/Program.cs" Line="106" Column="41" />
+      <File FileName="oopPrinciples/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="basicsOfClasses">
-            <Node name="basicsOfClasses">
-              <Node name="classes" expanded="True" />
-            </Node>
             <Node name="linkedList" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.linkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
