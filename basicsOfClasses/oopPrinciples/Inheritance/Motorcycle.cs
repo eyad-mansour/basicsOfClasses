@@ -10,6 +10,10 @@ namespace oopPrinciples.Inheritance
         {
             Console.WriteLine("the motor can is on the wheelie");
         }
+        //public override void Start()
+        //{
+        //    Console.WriteLine("changing in moto");
+        //}
 
         public void TurnRight()
         {

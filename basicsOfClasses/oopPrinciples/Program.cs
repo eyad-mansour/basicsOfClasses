@@ -1,5 +1,5 @@
 ﻿namespace oopPrinciples;
-//using Abstraction;
+using Abstraction;
 using Polymorphism;
 using Encapsulation;
 using Inheritance;
@@ -34,33 +34,27 @@ internal class Program
 
         //Inheritance
 
-        Veicle alto = new Car();
-        Veicle GSX = new Motorcycle();
-        Veicle wrangler = new Veicle();
+        //Veicle alto = new Car();
+        //Motorcycle GSX = new Motorcycle();
+        //Veicle wrangler = new Veicle();
 
-        wrangler.Color = "black";
-        GSX.Make = "suzuki";
-        GSX.TurnLeft();
-
-        GSX.Start();
-        alto.Color = "blue";
-        alto.TurnLeft();
-
-        if(GSX is Motorcycle motorcycleInstance)
-            {
-            motorcycleInstance.TurnRight();
-        }
-        ((Motorcycle)(GSX)).TurnRight();
-        
-        
-        GSX.Start();
+        //wrangler.Color = "black";
+        //GSX.Make = "suzuki";
+        //GSX.TurnLeft();
+        //GSX.Start();
+        //wrangler.Start();
+        //alto.Color = "blue";
+        //alto.TurnLeft();
+        //GSX.Start();
         //GSX.Stop();
 
 
-        alto.Year = 2020;
-        Console.WriteLine(alto.GetYear()); 
-        Console.WriteLine(wrangler.Color);
-        Console.WriteLine(alto.Color +" saleeeem");
+        //alto.Year = 2020;
+        //Console.WriteLine(alto.GetYear());
+        //Console.WriteLine(wrangler.Color);
+        //Console.WriteLine(alto.Color + " saleeeem");
+
+
         Console.ReadKey();
     }
 }

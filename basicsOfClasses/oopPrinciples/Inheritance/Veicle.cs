@@ -7,7 +7,7 @@ namespace oopPrinciples.Inheritance
         public string Color { get; set; }
         public int Year { get; set; }
 
-        public void Start()
+        public virtual void Start()
         {
             Console.WriteLine("veicle is starting...");
         }
