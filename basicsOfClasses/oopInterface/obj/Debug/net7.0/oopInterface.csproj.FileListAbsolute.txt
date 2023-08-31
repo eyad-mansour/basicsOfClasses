@@ -1,0 +1,14 @@
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/bin/Debug/net7.0/oopInterface
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/bin/Debug/net7.0/oopInterface.deps.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/bin/Debug/net7.0/oopInterface.runtimeconfig.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/bin/Debug/net7.0/oopInterface.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/bin/Debug/net7.0/oopInterface.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.AssemblyInfoInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.AssemblyInfo.cs
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.csproj.CoreCompileInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/refint/oopInterface.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/oopInterface.genruntimeconfig.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/oopInterface/obj/Debug/net7.0/ref/oopInterface.dll
