@@ -4,7 +4,7 @@ namespace oopInterface.Classes
 {
     public class Boat : IDriveable
     {
-        public string BoatNme{ get; set; }
+        public string BoatName{ get; set; }
         public void Start()
         {
             Console.WriteLine("the boat is starting");
