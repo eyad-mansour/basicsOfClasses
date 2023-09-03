@@ -1,0 +1,14 @@
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/bin/Debug/net7.0/enumsTesting
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/bin/Debug/net7.0/enumsTesting.deps.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/bin/Debug/net7.0/enumsTesting.runtimeconfig.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/bin/Debug/net7.0/enumsTesting.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/bin/Debug/net7.0/enumsTesting.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.AssemblyInfoInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.AssemblyInfo.cs
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.csproj.CoreCompileInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/refint/enumsTesting.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/enumsTesting.genruntimeconfig.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/enumsTesting/obj/Debug/net7.0/ref/enumsTesting.dll
