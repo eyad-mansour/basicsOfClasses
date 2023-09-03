@@ -1,31 +1,34 @@
-﻿<Properties StartupConfiguration="{BE8748C6-9069-40C5-8D4C-972538625B80}|Default">
-  <MonoDevelop.Ide.ItemProperties.oopInterface FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{8168323A-8A57-4A2D-AEB7-503E15426A8E}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="oopPrinciples/Program.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="oopInterface/Classes/Developer.cs">
     <Files>
-      <File FileName="oopPrinciples/Abstraction/Car.cs" Line="1" Column="1" />
-      <File FileName="oopPrinciples/Abstraction/Viecle.cs" Line="4" Column="20" />
-      <File FileName="oopPrinciples/Encapsulation/BankAccount.cs" Line="1" Column="1" />
-      <File FileName="oopPrinciples/Inheritance/Car.cs" Line="1" Column="1" />
-      <File FileName="oopPrinciples/Inheritance/Veicle.cs" Line="1" Column="1" />
-      <File FileName="oopPrinciples/Inheritance/Motorcycle.cs" Line="1" Column="1" />
-      <File FileName="oopPrinciples/Program.cs" Line="37" Column="33" />
+      <File FileName="oopInterface/Program.cs" Line="12" Column="21" />
+      <File FileName="oopInterface/Classes/DelevaryDriver.cs" Line="9" Column="23" />
+      <File FileName="oopInterface/Classes/Boat.cs" Line="18" Column="53" />
+      <File FileName="oopInterface/interfaces/IDriveable.cs" Line="1" Column="1" />
+      <File FileName="oopInterface/Classes/Employee.cs" Line="9" Column="21" />
+      <File FileName="oopInterface/Classes/Developer.cs" Line="4" Column="36" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="basicsOfClasses" expanded="True">
-            <Node name="oopPrinciples" expanded="True" />
+            <Node name="oopInterface" expanded="True">
+              <Node name="Classes" expanded="True" />
+              <Node name="interfaces" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.basicsOfClasses PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.oopInterface PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.oopPrinciples PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.linkedList PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.enumsTesting FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MonoDevelop.Ide.ItemProperties.static__memeber PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.basicsOfClasses PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.linkedList PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
