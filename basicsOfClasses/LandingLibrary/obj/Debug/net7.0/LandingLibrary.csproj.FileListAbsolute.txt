@@ -1,0 +1,14 @@
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.AssemblyInfoInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.AssemblyInfo.cs
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.csproj.CoreCompileInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/bin/Debug/net7.0/LandingLibrary
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/bin/Debug/net7.0/LandingLibrary.deps.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/bin/Debug/net7.0/LandingLibrary.runtimeconfig.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/bin/Debug/net7.0/LandingLibrary.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/bin/Debug/net7.0/LandingLibrary.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/refint/LandingLibrary.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/LandingLibrary.genruntimeconfig.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/LandingLibrary/obj/Debug/net7.0/ref/LandingLibrary.dll
