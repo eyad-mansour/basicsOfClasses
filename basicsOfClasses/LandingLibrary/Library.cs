@@ -20,7 +20,7 @@ namespace LandingLibrary
         public void Add(string title, string firstName, string LastName, int numberOfPages)
         {
             Book book = new Book
-            {
+            {    
                 Title = title,
                 Author = new Author
                 {
@@ -31,7 +31,6 @@ namespace LandingLibrary
 
             };
             books.Add(title, book);
-
         }
         public Book Borrow(string title)
         {
