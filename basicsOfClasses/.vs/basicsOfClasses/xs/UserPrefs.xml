@@ -10,9 +10,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="basicsOfClasses">
-            <Node name="LandingLibrary" selected="True" />
-          </Node>
+          <Node name="basicsOfClasses" expanded="True" />
         </State>
       </Pad>
     </Pads>
