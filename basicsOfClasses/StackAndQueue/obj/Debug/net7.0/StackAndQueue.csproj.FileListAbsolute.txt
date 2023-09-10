@@ -1,0 +1,14 @@
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/bin/Debug/net7.0/StackAndQueue
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/bin/Debug/net7.0/StackAndQueue.deps.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/bin/Debug/net7.0/StackAndQueue.runtimeconfig.json
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/bin/Debug/net7.0/StackAndQueue.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/bin/Debug/net7.0/StackAndQueue.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.AssemblyInfoInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.AssemblyInfo.cs
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.csproj.CoreCompileInputs.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/refint/StackAndQueue.dll
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.pdb
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/StackAndQueue.genruntimeconfig.cache
+/Users/eyadnm/Documents/net_corse/basicsOfClasses/basicsOfClasses/StackAndQueue/obj/Debug/net7.0/ref/StackAndQueue.dll
