@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="queue\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="queue\" />
+  </ItemGroup>
 </Project>
